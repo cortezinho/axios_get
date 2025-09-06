@@ -1,7 +1,24 @@
 {
     "users": [
-        {"id":1, "name": "Alice", "email":"alice@gmail.com"},
-        {"id":2, "name": "Eduardo", "email":"Eduardo@gmail.com"},
-        {"id":3, "name": "Axios", "email":"Axios@gmail.com"}
+        { "id": 1, "name": "Ana Souza", "email": "ana.souza@email.com" },
+        { "id": 2, "name": "Carlos Oliveira", "email": "carlos.oliveira@email.com" },
+        { "id": 3, "name": "Fernanda Lima", "email": "fernanda.lima@email.com" },
+        { "id": 4, "name": "João Silva", "email": "joao.silva@email.com" },
+        { "id": 5, "name": "Mariana Costa", "email": "mariana.costa@email.com" },
+        { "id": 6, "name": "Ricardo Pereira", "email": "ricardo.pereira@email.com" },
+        { "id": 7, "name": "Patrícia Gomes", "email": "patricia.gomes@email.com" },
+        { "id": 8, "name": "Roberto Lima", "email": "roberto.lima@email.com" },
+        { "id": 9, "name": "Juliana Fernandes", "email": "juliana.fernandes@email.com" },
+        { "id": 10, "name": "André Barbosa", "email": "andre.barbosa@email.com" },
+        { "id": 11, "name": "Luciana Martins", "email": "luciana.martins@email.com" },
+        { "id": 12, "name": "Paulo Henrique", "email": "paulo.henrique@email.com" },
+        { "id": 13, "name": "Gabriela Souza", "email": "gabriela.souza@email.com" },
+        { "id": 14, "name": "Felipe Almeida", "email": "felipe.almeida@email.com" },
+        { "id": 15, "name": "Camila Araújo", "email": "camila.araujo@email.com" },
+        { "id": 16, "name": "Rafael Santos", "email": "rafael.santos@email.com" },
+        { "id": 17, "name": "Beatriz Rocha", "email": "beatriz.rocha@email.com" },
+        { "id": 18, "name": "Diego Nascimento", "email": "diego.nascimento@email.com" },
+        { "id": 19, "name": "Isabela Faria", "email": "isabela.faria@email.com" },
+        { "id": 20, "name": "Marcelo Cunha", "email": "marcelo.cunha@email.com" }
     ]
 }
